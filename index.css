@@ -60,13 +60,16 @@ button {
 }
 
 .section {
-   padding: 5px;
+   padding: 1rem;
    background: #273549;
-   width: 500px;
+   width: 480px;
+   margin: auto;
    margin-bottom: 25px;
    margin-top: 20;
    font-weight: 600;
    border-radius: 5px;
+   display: flex;
+   flex-direction: column;
 }
 
 h3 {
